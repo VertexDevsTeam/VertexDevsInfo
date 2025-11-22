@@ -4,8 +4,8 @@
 
 
 ## about us
-40tkaya team vertexdevs
-we make games and projects using godot 
+vertexdevs
+we make games and projects (obviously)
 
 
 
