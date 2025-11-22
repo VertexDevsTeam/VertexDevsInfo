@@ -17,7 +17,9 @@ we make games and projects (obviously)
 
 ## links
 **Telegram:** https://t.me/vertexdevs  
-**Itch.io:** https://vertexdevs.itch.io/ 
+**Itch.io:** https://vertexdevs.itch.io/
+
+
 **Discord:** wip   
 **YouTube:** wip   
 **website:**  wip 
